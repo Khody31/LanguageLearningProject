@@ -18,4 +18,5 @@ class HelpWidget : public QWidget {
   QVBoxLayout* layout_;
   QLabel* hint_;
   QPushButton* button_;
+  QLabel* some_another_label;
 };
