@@ -43,3 +43,4 @@ class MainMenu : public QWidget {
   QAction* english_action_;
   QActionGroup* mother_tongue_group_;
 };
+// some comment
